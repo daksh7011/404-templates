@@ -11,7 +11,6 @@ Have a look at styles
 
 
 # License
-'''
 
     Copyright 2018 Daksh Desai, daksh7011.com
     This program is free software: you can redistribute it and/or modify
@@ -27,4 +26,3 @@ Have a look at styles
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
-'''
