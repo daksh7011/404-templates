@@ -1,3 +1,1 @@
-# 404-templates
-
-Creative 404 Templates
+# Creative and Animated 404 Templates
