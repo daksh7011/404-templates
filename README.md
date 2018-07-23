@@ -6,7 +6,7 @@ Have a look at styles
  
 ###### TO-DO
     1. Add more styles
-    2. ~~ Optimize css code ~~
+    2. ~~Optimize css code~~
 
 ## [Contribution guideline for this project] (CONTRIBUTING.md)
 
