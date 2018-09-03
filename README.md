@@ -1,13 +1,13 @@
 # Creative and Animated 404 Templates
 Have a look at styles 
- * [Style 1] (https://daksh7011.com/demo/404/style-1/)
- * [Style 2] (https://daksh7011.com/demo/404/style-2/)
+ * [Style 1](https://daksh7011.com/demo/404/style-1/)
+ * [Style 2](https://daksh7011.com/demo/404/style-2/)
  
  
 ###### TO-DO
     1. Add more styles
 
-## [Contribution guideline for this project] (CONTRIBUTING.md)
+## [Contribution guideline for this project](CONTRIBUTING.md)
 
 
 # License
